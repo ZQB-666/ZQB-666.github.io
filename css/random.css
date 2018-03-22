@@ -696,3 +696,20 @@ blockquote {
     margin-top: 75px;
   }
 }
+
+#page {}
+
+#page h1 {
+    text-align: center;
+    color: #4094c3;
+    font-weight: bold;
+    font-size: 1.3rem;
+}
+
+#page p {
+    line-height: 30px;
+    color: #564141;
+    font-size: 1rem;
+    padding-left: 40px;
+    padding-right: 40px;
+}
